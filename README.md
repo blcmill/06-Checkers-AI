@@ -1,3 +1,7 @@
+# Checkers Blake Miller
+
+This is my implementation of Checkers. Hopefully it works! (-:
+
 # 06-Checkers
 
 Let's play a game of checkers! This is the fifth programming assignment for ILS-Z399. The requirements for this assignment are as follows:
